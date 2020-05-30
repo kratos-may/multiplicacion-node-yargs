@@ -1,0 +1,17 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "base de nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "edgar querales",
+  "license": "ISC"
+}
